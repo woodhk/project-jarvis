@@ -1,0 +1,162 @@
+{
+ "sessions": [
+  {
+   "id": "s-ideas",
+   "pid": 1003,
+   "shellPid": 2003,
+   "tty": "/dev/ttys003",
+   "host": "vscode",
+   "folderPath": "/work/insta-comment-dm",
+   "folderLabel": "insta-comment-dm",
+   "label": "IDEAS2 Instagram reel tracking",
+   "gist": [
+    "track ideas",
+    "tag show",
+    "ideas tag",
+    "reel track",
+    "commit"
+   ]
+  },
+  {
+   "id": "s-discovery",
+   "pid": 1001,
+   "shellPid": 2001,
+   "tty": "/dev/ttys001",
+   "host": "terminal",
+   "folderPath": "/work/stream_audio_converter",
+   "folderLabel": "stream_audio_converter",
+   "label": "discovery-reel",
+   "gist": [
+    "concrete examples",
+    "seamless",
+    "window shows",
+    "type reel",
+    "tutorial shows"
+   ]
+  },
+  {
+   "id": "s-front",
+   "pid": 1002,
+   "shellPid": 2002,
+   "tty": "/dev/ttys002",
+   "host": "terminal",
+   "folderPath": "/Users/sam",
+   "folderLabel": "home",
+   "label": "Computer vision Mac cursor control",
+   "gist": [
+    "open artifact",
+    "say instagram",
+    "reel video",
+    "hand movement",
+    "artifact discovery",
+    "instagram reel"
+   ]
+  },
+  {
+   "id": "s-share",
+   "pid": 1004,
+   "shellPid": 2004,
+   "tty": "/dev/ttys004",
+   "host": "vscode",
+   "folderPath": "/work/insta-comment-dm",
+   "folderLabel": "insta-comment-dm",
+   "label": "Shareable repo setup guide",
+   "gist": [
+    "open source",
+    "coffee",
+    "github",
+    "bot",
+    "saw reel",
+    "reel comment-to-dm"
+   ]
+  },
+  {
+   "id": "s-gif",
+   "pid": 1005,
+   "shellPid": 2005,
+   "tty": "/dev/ttys005",
+   "host": "vscode",
+   "folderPath": "/work/stream_audio_converter",
+   "folderLabel": "stream_audio_converter",
+   "label": "Emotion-tagged GIF library",
+   "gist": [
+    "gifs",
+    "emotion",
+    "wtf gif",
+    "videos paired",
+    "typing gif"
+   ]
+  },
+  {
+   "id": "s-chip",
+   "pid": 1006,
+   "shellPid": 2006,
+   "tty": "/dev/ttys006",
+   "host": "vscode",
+   "folderPath": "/work/gadget-lab",
+   "folderLabel": "gadget-lab",
+   "label": "Chip design software",
+   "gist": [
+    "usb controller",
+    "software chip",
+    "custom board",
+    "controller module"
+   ]
+  }
+ ],
+ "artifacts": [
+  {
+   "url": "https://claude.ai/artifact/fixture-gif",
+   "title": "Reaction GIF Library",
+   "description": "Review 164 reaction GIFs one at a time: approve with the moments each is for, or reject.",
+   "links": [
+    {
+     "sessionId": "s-gif",
+     "shown": true,
+     "at": "2026-11-09T10:00:00Z"
+    }
+   ]
+  },
+  {
+   "url": "https://claude.ai/artifact/fixture-discovery",
+   "links": [
+    {
+     "sessionId": "s-discovery",
+     "shown": true,
+     "at": "2026-11-10T08:00:00Z"
+    }
+   ]
+  },
+  {
+   "url": "https://claude.ai/artifact/fixture-data",
+   "links": [
+    {
+     "sessionId": "s-discovery",
+     "shown": false,
+     "at": "2026-11-10T09:00:00Z"
+    }
+   ]
+  }
+ ],
+ "apps": [
+  {
+   "name": "ChatGPT",
+   "aliases": [],
+   "path": "/Applications/ChatGPT.app"
+  }
+ ],
+ "sites": [
+  {
+   "name": "YouTube",
+   "aliases": [
+    "you tube"
+   ],
+   "url": "https://www.youtube.com/"
+  },
+  {
+   "name": "Gemini",
+   "aliases": [],
+   "url": "https://gemini.google.com/app"
+  }
+ ]
+}

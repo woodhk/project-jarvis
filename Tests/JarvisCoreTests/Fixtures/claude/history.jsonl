@@ -1,0 +1,15 @@
+{"display": "make the repo open source and write a setup guide", "pastedContents": {}, "timestamp": 1794000000000, "project": "/work/shop", "sessionId": "A"}
+{"display": "open the door for the delivery", "pastedContents": {}, "timestamp": 1794000000001, "project": "/work/shop", "sessionId": "B"}
+{"display": "check https://example.test/docs?x=1 then update the open source readme", "pastedContents": {}, "timestamp": 1794000000002, "project": "/work/shop", "sessionId": "A"}
+{"display": "what is the source of truth for prices", "pastedContents": {}, "timestamp": 1794000000003, "project": "/work/shop", "sessionId": "C"}
+this line is not json
+{"display": "sam wants the license in /Users/sam/projects/bot/LICENSE fixed", "pastedContents": {}, "timestamp": 1794000000004, "project": "/work/shop", "sessionId": "A"}
+{"display": "the door is stuck", "pastedContents": {}, "timestamp": 1794000000005, "project": "/work/shop", "sessionId": "B"}
+{"display": "is the open source license correct", "pastedContents": {}, "timestamp": 1794000000006, "project": "/work/shop", "sessionId": "A"}
+{"display": "update the prices table", "pastedContents": {}, "timestamp": 1794000000007, "project": "/work/shop", "sessionId": "C"}
+{"display": "add a coffee link to the readme", "pastedContents": {}, "timestamp": 1794000000008, "project": "/work/shop", "sessionId": "A"}
+{"display": "paint the door blue", "pastedContents": {}, "timestamp": 1794000000009, "project": "/work/shop", "sessionId": "B"}
+{"display": "prices look wrong", "pastedContents": {}, "timestamp": 1794000000010, "project": "/work/shop", "sessionId": "C"}
+{"display": "a prompt with no session", "timestamp": 1794000000099, "project": "/work/shop"}
+{"display": "make the checkout page nicer", "pastedContents": {}, "timestamp": 1794000000200, "project": "/work/shop", "sessionId": "sess-101"}
+{"display": "the checkout button is too small", "pastedContents": {}, "timestamp": 1794000000201, "project": "/work/shop", "sessionId": "sess-101"}

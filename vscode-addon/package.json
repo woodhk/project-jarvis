@@ -1,0 +1,23 @@
+{
+  "name": "jarvis-bridge",
+  "displayName": "Jarvis Bridge",
+  "description": "Lets the Jarvis voice switcher select one terminal in this window and see which terminal is active. It listens on a local socket only.",
+  "publisher": "local",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "engines": { "vscode": "^1.90.0" },
+  "main": "./out/src/extension.js",
+  "activationEvents": ["onStartupFinished"],
+  "extensionKind": ["ui"],
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "tsc -p . && node --test \"out/test/**/*.test.js\""
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/vscode": "^1.90.0",
+    "@vscode/vsce": "^3.0.0",
+    "typescript": "^5.5.0"
+  }
+}

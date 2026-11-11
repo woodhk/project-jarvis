@@ -1,0 +1,51 @@
+{
+ "answers": {
+  "kind": {
+   "choice": "session",
+   "confidence": 0.95,
+   "probabilities": {
+    "session": 0.95,
+    "artifact": 0.03,
+    "app_or_website": 0.02
+   }
+  },
+  "session_all": {
+   "choice": "insta-comment-dm / Shareable repo setup guide",
+   "confidence": 0.98,
+   "probabilities": {
+    "insta-comment-dm / Shareable repo setup guide": 0.98,
+    "insta-comment-dm / IDEAS2 Instagram reel tracking": 0.01,
+    "home / Computer vision Mac cursor control": 0.01,
+    "stream_audio_converter / discovery-reel": 0.0,
+    "stream_audio_converter / Emotion-tagged GIF library": 0.0,
+    "gadget-lab / Chip design software": 0.0
+   }
+  },
+  "session_other": {
+   "choice": "insta-comment-dm / Shareable repo setup guide",
+   "confidence": 0.97,
+   "probabilities": {
+    "insta-comment-dm / Shareable repo setup guide": 0.97,
+    "insta-comment-dm / IDEAS2 Instagram reel tracking": 0.03,
+    "stream_audio_converter / discovery-reel": 0.0,
+    "stream_audio_converter / Emotion-tagged GIF library": 0.0,
+    "gadget-lab / Chip design software": 0.0
+   }
+  },
+  "artifact": {
+   "choice": "Reaction GIF Library",
+   "confidence": 0.6,
+   "probabilities": {
+    "Reaction GIF Library": 0.6,
+    "untitled page": 0.3,
+    "untitled page (2)": 0.1
+   }
+  },
+  "known": {
+   "noul": 0.87
+  },
+  "describes": {
+   "noul": 0.93
+  }
+ }
+}
